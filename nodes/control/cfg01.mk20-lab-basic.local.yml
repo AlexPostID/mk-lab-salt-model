@@ -3,7 +3,7 @@ classes:
 - cluster.mk20_lab_basic.openstack_proxy
 parameters:
   _param:
-    linux_system_codename: xenial
+    linux_system_codename: trusty
     reclass_data_revision: dash
     reclass_data_repository: https://github.com/AlexPostID/mk-lab-salt-model.git
   linux:
